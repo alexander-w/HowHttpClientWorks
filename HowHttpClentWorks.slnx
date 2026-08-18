@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HowHttpClentWorks/HowHttpClentWorks.csproj" />
+  <Project Path="PerfTests/PerfTests.csproj" />
+</Solution>
